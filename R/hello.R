@@ -9,7 +9,7 @@ start.course <- function(){
 library(git2r)
 # Set your username and PAT as variables
 username <- "drahmedshaheen"
-pat <- "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"
+pat <- "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"
 # Get the URL of the repository
 url <- "https://github.com/drahmedshaheen/app-data.git"
 # Create a local directory to clone the repository
