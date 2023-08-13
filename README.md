@@ -8,6 +8,6 @@
 #### Third Step: install the dependencies
      SHAHEENCLINIC::install.dependies()
 
-### And finally ## Run the app
+### And finally, run the app
     SHAHEENCLINIC::start.course()
    
